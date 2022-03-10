@@ -1,0 +1,47 @@
+{
+    "report":{
+        "comment":0,
+        "code":0,
+        "total":0,
+        "blank":0
+    },
+    "input": "./input",
+    "languages": {
+        "js": {
+            "comment": "//",
+            "multiLineCommentStart": "/*",
+            "multiLineCommentStop": "*/",
+            "classifications": [
+                {
+                    "import": [
+                        ""
+                    ],
+                    "class": [
+                        ""
+                    ],
+                    "declarations": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        "java": {
+            "comment": "//",
+            "multiLineCommentStart": "/*",
+            "multiLineCommentStop": "*/",
+            "classifications": [
+                {
+                    "import": [
+                        ""
+                    ],
+                    "class": [
+                        ""
+                    ],
+                    "declarations": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    }
+}
